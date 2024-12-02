@@ -1,0 +1,22 @@
+Logger iniciado em 2024-11-25T07:07:38.445481
+2024-11-25T07:07:38.445481 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T07:07:50.539855 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 54598)
+2024-11-25T07:07:50.585791 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T07:08:04.729043 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 54599)
+2024-11-25T07:08:04.774364 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T07:09:20.988624 [ERROR  ] Conexão encerrada: ('127.0.0.1', 54598)
+2024-11-25T07:09:21.097598 [ERROR  ] Conexão encerrada: ('127.0.0.1', 54599)
+2024-11-25T07:09:33.211673 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 54614)
+2024-11-25T07:09:33.253740 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T07:10:15.236241 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 54625)
+2024-11-25T07:10:15.251437 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T07:11:27.209101 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 54650)
+2024-11-25T07:11:27.233630 [ERROR  ] ID de cliente 2 não encontrado no catálogo. Encerrando conexão.
+2024-11-25T07:11:40.140039 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 54669)
+2024-11-25T07:11:40.170067 [ERROR  ] ID de cliente 2 não encontrado no catálogo. Encerrando conexão.
+2024-11-25T07:17:39.602016 [ERROR  ] Conexão encerrada: ('127.0.0.1', 54625)
+2024-11-25T07:17:39.716014 [ERROR  ] Conexão encerrada: ('127.0.0.1', 54614)
+2024-11-25T07:18:12.363204 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 54736)
+2024-11-25T07:18:12.393736 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T07:18:14.359627 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 54737)
+2024-11-25T07:18:14.402703 [ERROR  ] ID de cliente 2 não encontrado no catálogo. Encerrando conexão.

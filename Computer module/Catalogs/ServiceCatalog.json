@@ -1,0 +1,5 @@
+[
+    {"name": "Modulo1", "id": 1,"type":"module"},
+    {"name": "Modulo2", "id": 2,"type":"module"},
+    {"name": "readButtons", "id": 25,"type":"application"}  
+]

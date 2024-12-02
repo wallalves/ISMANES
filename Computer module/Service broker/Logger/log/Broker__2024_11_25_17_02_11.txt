@@ -1,0 +1,11 @@
+Logger iniciado em 2024-11-25T17:02:11.426811
+2024-11-25T17:02:11.433811 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T17:02:20.083851 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61401)
+2024-11-25T17:02:20.084853 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T17:02:44.158852 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61403)
+2024-11-25T17:02:44.187854 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T17:02:45.134436 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:02:45.411489 [ERROR  ] Conexão encerrada: ('127.0.0.1', 61403)
+2024-11-25T17:02:55.494136 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61413)
+2024-11-25T17:02:55.526141 [INFO   ] Conexão aceita para o cliente ['Modulo2'] [ type = ['module'] ] [ ID = 2 ]
+2024-11-25T17:03:57.326672 [ERROR  ] Conexão encerrada: ('127.0.0.1', 61413)

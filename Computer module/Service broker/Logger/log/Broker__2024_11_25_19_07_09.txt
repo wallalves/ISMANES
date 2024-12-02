@@ -1,0 +1,4 @@
+Logger iniciado em 2024-11-25T19:07:09.155619
+2024-11-25T19:07:09.155619 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T19:14:42.555433 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 63116)
+2024-11-25T19:14:42.633937 [ERROR  ] ID de cliente A não encontrado no catálogo. Encerrando conexão.

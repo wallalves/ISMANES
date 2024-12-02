@@ -1,0 +1,5 @@
+Logger iniciado em 2024-11-25T06:25:43.281941
+2024-11-25T06:25:43.281941 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T06:25:58.620597 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 54112)
+2024-11-25T06:25:58.681531 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T06:25:58.791888 [ERROR  ] Conexão encerrada: ('127.0.0.1', 54112)

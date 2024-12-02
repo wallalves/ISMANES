@@ -1,0 +1,52 @@
+Logger iniciado em 2024-11-25T14:19:44.053666
+2024-11-25T14:19:44.053666 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T14:19:59.625514 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59672)
+2024-11-25T14:19:59.670513 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T14:21:04.487345 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59678)
+2024-11-25T14:21:04.488346 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:21:04.531879 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59678)
+2024-11-25T14:21:18.155124 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59684)
+2024-11-25T14:21:18.156126 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:21:18.202150 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59684)
+2024-11-25T14:23:18.991580 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59672)
+2024-11-25T14:25:22.345025 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59741)
+2024-11-25T14:25:22.347012 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:25:41.366011 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59741)
+2024-11-25T14:26:26.598205 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59759)
+2024-11-25T14:26:26.600163 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:29:20.413168 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59759)
+2024-11-25T14:29:50.591725 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59807)
+2024-11-25T14:29:50.592725 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:35:13.480030 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59807)
+2024-11-25T14:35:15.367714 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59866)
+2024-11-25T14:35:15.369713 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:36:29.183729 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59881)
+2024-11-25T14:36:29.232730 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T14:36:35.235307 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T14:36:58.059395 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T14:37:00.829777 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T14:37:02.229836 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T14:37:04.178526 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T14:37:04.431058 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T14:37:04.712153 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:35:53.046389 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59866)
+2024-11-25T15:36:00.789578 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 60462)
+2024-11-25T15:36:00.790577 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T15:36:05.946259 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:12.884723 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:13.166224 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:14.570657 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:14.851385 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:15.158459 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:15.412590 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:15.692956 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:15.902806 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:16.167362 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:16.468331 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:16.735067 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:31.010434 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:33.332275 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:33.553521 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:33.822034 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:35.462574 [INFO   ] Mensagem enfileirada para 25
+2024-11-25T15:36:35.510086 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59881)

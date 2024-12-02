@@ -1,0 +1,5 @@
+Logger iniciado em 2024-11-25T19:08:29.669544
+2024-11-25T19:08:29.673554 [INFO   ] Conectado à porta COM10 a 115200 bps.
+2024-11-25T19:08:33.206166 [INFO   ] Mensagem recebida: b'\x00\x01\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00'
+2024-11-25T19:08:33.301670 [INFO   ] Mensagem recebida: AAEAABAAAAAAAAAA
+2024-11-25T19:08:33.395180 [INFO   ] Mensagem recebida: b'\x00\x01\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00'

@@ -1,0 +1,2 @@
+Logger iniciado em 2024-11-25T06:23:59.809068
+2024-11-25T06:23:59.809068 [INFO   ] Broker ouvindo na porta 5000

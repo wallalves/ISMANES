@@ -1,0 +1,19 @@
+Logger iniciado em 2024-11-25T08:53:32.718954
+2024-11-25T08:53:32.719942 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T08:54:19.534203 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 55327)
+2024-11-25T08:54:19.564634 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T08:54:23.565589 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 55328)
+2024-11-25T08:54:23.580191 [INFO   ] Conexão aceita para o cliente ['Modulo2'] [ type = ['module'] ] [ ID = 2 ]
+2024-11-25T08:54:47.852176 [ERROR  ] Conexão encerrada: ('127.0.0.1', 55328)
+2024-11-25T08:55:14.472908 [ERROR  ] Conexão encerrada: ('127.0.0.1', 55327)
+2024-11-25T08:55:21.540261 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 55332)
+2024-11-25T08:55:21.607657 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T08:56:00.846777 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 55336)
+2024-11-25T08:56:00.891854 [INFO   ] Conexão aceita para o cliente ['Modulo2'] [ type = ['module'] ] [ ID = 2 ]
+2024-11-25T08:57:46.168624 [ERROR  ] Conexão encerrada: ('127.0.0.1', 55332)
+2024-11-25T08:57:53.584406 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 55352)
+2024-11-25T08:57:53.584406 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T08:57:53.612770 [ERROR  ] Conexão encerrada: ('127.0.0.1', 55352)
+2024-11-25T08:58:10.279068 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 55363)
+2024-11-25T08:58:10.325517 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T09:03:48.640988 [ERROR  ] Conexão encerrada: ('127.0.0.1', 55363)

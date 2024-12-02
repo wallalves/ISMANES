@@ -1,0 +1,133 @@
+Logger iniciado em 2024-11-25T16:35:36.205682
+2024-11-25T16:35:36.205682 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T16:36:01.440073 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61131)
+2024-11-25T16:36:01.487072 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T16:36:03.423847 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61132)
+2024-11-25T16:36:03.471930 [INFO   ] Conexão aceita para o cliente ['Modulo2'] [ type = ['module'] ] [ ID = 2 ]
+2024-11-25T16:36:16.536072 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61133)
+2024-11-25T16:36:16.537073 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T16:37:30.628343 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61154)
+2024-11-25T16:37:30.629346 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T16:37:30.630350 [ERROR  ] Conexão encerrada: ('127.0.0.1', 61154)
+2024-11-25T16:38:26.035400 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61157)
+2024-11-25T16:38:26.036400 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T16:38:26.037401 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:38:31.038716 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:38:36.040247 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:38:41.041605 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:38:46.043310 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:38:51.045468 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:38:56.047157 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:01.048850 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:06.050485 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:11.051869 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:16.053208 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:21.054770 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:26.056562 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:31.058059 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:36.059548 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:41.062421 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:46.064040 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:51.065282 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:39:56.066802 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:01.068681 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:06.070287 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:11.071818 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:16.073772 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:21.075421 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:26.077102 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:31.079138 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:36.080931 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:41.082919 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:46.084784 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:51.086376 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:40:56.087907 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:01.089569 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:06.090965 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:11.092849 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:16.095262 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:21.097026 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:26.098807 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:31.100287 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:36.102148 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:41.103553 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:46.105311 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:51.106627 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:41:56.108399 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:01.110146 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:06.112183 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:11.113591 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:16.114966 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:21.116908 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:26.118426 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:31.120054 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:36.121855 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:41.123585 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:46.124975 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:51.126651 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:42:56.128711 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:01.130326 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:06.131794 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:11.133543 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:16.135481 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:21.137177 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:26.138800 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:31.140119 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:36.141808 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:41.143726 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:46.145017 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:51.146329 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:43:56.148066 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:01.149666 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:06.151063 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:11.153211 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:16.154627 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:21.156225 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:26.157676 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:31.159651 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:36.161185 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:41.163346 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:46.164480 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:51.166251 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:44:56.168361 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:45:01.169793 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:45:06.171897 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:45:11.172867 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:45:12.076249 [ERROR  ] Conexão encerrada: ('127.0.0.1', 61131)
+2024-11-25T16:45:57.831879 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61219)
+2024-11-25T16:45:57.877801 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T16:46:01.186296 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:03.619584 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61220)
+2024-11-25T16:46:03.665595 [INFO   ] Conexão aceita para o cliente ['Modulo2'] [ type = ['module'] ] [ ID = 2 ]
+2024-11-25T16:46:06.187430 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:11.189372 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:16.190871 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:21.193092 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:26.194941 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:31.196405 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:36.198171 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:41.199896 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:46.201707 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:51.203053 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:46:56.204283 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:01.205866 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:06.207381 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:11.209217 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:16.210932 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:21.212825 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:26.214179 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:31.215638 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:36.217204 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:41.218816 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:46.220348 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:51.221581 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:47:56.223164 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:48:01.224618 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:48:06.226779 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:48:11.228594 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:48:16.230208 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:48:21.231863 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:48:26.233988 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:48:31.235239 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:48:36.236792 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:48:41.238561 [INFO   ] Mensagem enfileirada para 1

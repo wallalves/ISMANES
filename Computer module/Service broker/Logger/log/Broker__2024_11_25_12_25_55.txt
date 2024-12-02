@@ -1,0 +1,6 @@
+Logger iniciado em 2024-11-25T12:25:55.428427
+2024-11-25T12:25:55.428427 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T12:26:09.724778 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 57511)
+2024-11-25T12:26:09.769864 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T12:26:12.773859 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 57512)
+2024-11-25T12:26:12.821662 [INFO   ] Conexão aceita para o cliente ['Modulo2'] [ type = ['module'] ] [ ID = 2 ]

@@ -1,0 +1,23 @@
+Logger iniciado em 2024-11-25T14:07:52.406902
+2024-11-25T14:07:52.406902 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T14:08:35.954037 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59479)
+2024-11-25T14:08:35.955000 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:08:35.994006 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59479)
+2024-11-25T14:10:15.763859 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59514)
+2024-11-25T14:10:15.764863 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:10:15.818944 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59514)
+2024-11-25T14:10:43.640005 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59535)
+2024-11-25T14:10:43.642716 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:10:52.951182 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59535)
+2024-11-25T14:11:32.734171 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59561)
+2024-11-25T14:11:32.736170 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:11:40.655397 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59561)
+2024-11-25T14:12:14.272608 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59575)
+2024-11-25T14:12:14.275605 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:12:48.752142 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59575)
+2024-11-25T14:14:15.271571 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59603)
+2024-11-25T14:14:15.273572 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:16:08.792766 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59603)
+2024-11-25T14:16:10.672888 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 59628)
+2024-11-25T14:16:10.674890 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T14:19:11.390243 [ERROR  ] Conexão encerrada: ('127.0.0.1', 59628)

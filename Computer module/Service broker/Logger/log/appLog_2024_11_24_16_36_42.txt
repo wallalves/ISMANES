@@ -1,0 +1,4 @@
+Logger iniciado em 2024-11-24T16:36:42.949294
+2024-11-24T16:36:42.949294 [INFO   ] Este é um log de exemplo.
+2024-11-24T16:36:42.950296 [WARNING] Este é um aviso.
+2024-11-24T16:36:42.950296 [ERROR  ] Este é um erro crítico!

@@ -1,0 +1,2 @@
+Logger iniciado em 2024-11-25T18:57:15.457980
+2024-11-25T18:57:15.461981 [INFO   ] Conectado à porta COM10 a 115200 bps.

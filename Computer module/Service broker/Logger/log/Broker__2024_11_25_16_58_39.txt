@@ -1,0 +1,33 @@
+Logger iniciado em 2024-11-25T16:58:39.440091
+2024-11-25T16:58:39.440091 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T16:58:45.571416 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61370)
+2024-11-25T16:58:45.571416 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
+2024-11-25T16:59:05.568341 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61375)
+2024-11-25T16:59:05.612850 [INFO   ] Conexão aceita para o cliente ['Modulo1'] [ type = ['module'] ] [ ID = 1 ]
+2024-11-25T16:59:10.590174 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:59:10.736187 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61376)
+2024-11-25T16:59:10.786703 [INFO   ] Conexão aceita para o cliente ['Modulo2'] [ type = ['module'] ] [ ID = 2 ]
+2024-11-25T16:59:15.599133 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:59:20.606851 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:59:25.621536 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:59:30.625063 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:59:35.632325 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:59:40.636201 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:59:45.638955 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:59:50.642155 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T16:59:55.643414 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:00.655163 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:05.662163 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:10.666251 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:15.667780 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:20.676809 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:25.678337 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:30.684132 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:35.693380 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:40.700055 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:45.702004 [INFO   ] Mensagem enfileirada para 1
+2024-11-25T17:00:47.182628 [ERROR  ] Conexão encerrada: ('127.0.0.1', 61370)
+2024-11-25T17:00:49.517726 [ERROR  ] Conexão encerrada: ('127.0.0.1', 61376)
+2024-11-25T17:00:49.624767 [ERROR  ] Conexão encerrada: ('127.0.0.1', 61375)
+2024-11-25T17:00:56.960656 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 61386)
+2024-11-25T17:00:56.962657 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]

@@ -1,0 +1,4 @@
+Logger iniciado em 2024-11-25T22:10:03.677284
+2024-11-25T22:10:03.678284 [INFO   ] Broker ouvindo na porta 5000
+2024-11-25T22:10:24.521045 [INFO   ] Nova conexão Requisitada por ('127.0.0.1', 49737)
+2024-11-25T22:10:24.522056 [INFO   ] Conexão aceita para o cliente ['readButtons'] [ type = ['application'] ] [ ID = 25 ]
